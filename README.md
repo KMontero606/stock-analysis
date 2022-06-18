@@ -1,7 +1,6 @@
 # Stock Analysis 
-~~for Dummies~~
 ## Overview of Project
-The Purpose of this analysis
+The purpose of this analysis is learning the programming language of Visual Basic for Applications or VBA. With VBA, one can create macros to automate repetitive word- and data-processing functions, and generate custom forms, graphs, and reports.
 ## Results 
 ### Comparison of the stock performance between 2017 and 2018 as well as execution times of the original script and the refactored script
 #### Original (2018) 
@@ -18,6 +17,6 @@ The Purpose of this analysis
 
 ## Summary
 ### 1.	What are the advantages or disadvantages of refactoring code?
-The advantages of refactoring code is it significantly streamlines the code as well as it reduces the time to create code. The disadvantages of refactoring code is any one mistake anywhere in the code would cause errors and would be time consuming rectifying the code.
+The advantages of refactoring code is it significantly streamlines the code as well as it reduces the time to create the code. The disadvantages of refactoring code is any one mistake anywhere in the code would cause errors and it took time and research understanding what the error means all while revisiting the script to correct the mistake.
 ### 2.	How do these pros and cons apply to refactoring the original VBA script?
-The original VBA script introduces me to the programming language used in Excel 
+The original VBA script introduces me to perform codes to automate the task that would normally be tedious. When applying refactor to the original VBA script, I did encounter a few bugs in the code and I had to research what the error message means to determine what went wrong. My excel application have this help option whenever an error occurred that directed me to Microsoft website to assist in understanding and resolving the error.   
